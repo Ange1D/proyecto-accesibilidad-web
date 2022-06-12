@@ -162,6 +162,7 @@ body {
   color: var(--darker);
   text-decoration: underline;
   text-decoration-color: #6155A6;
+  
 }
 
 .article-title a:hover {
